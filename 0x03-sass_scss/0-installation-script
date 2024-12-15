@@ -1,0 +1,10 @@
+Steps to install SASS:
+1. Verified Node.js and npm are installed using the commands:
+   - node -v
+   - npm -v
+2. Navigated to the project directory:
+   - cd Desktop\FE ALX AFRICA\PRODEV FRONTEND\alx-intermediate-frontend
+3. Installed SASS using the following command:
+   - npm install sass
+4. Verified the installation using:
+   - npx sass --version
